@@ -1,2 +1,11 @@
 # JarvisMarchingAlgorithm-For-convex-Hull-detection-circuit-
-![Screenshot 2024-07-30 180553](https://github.com/user-attachments/assets/b31a4b16-1385-4a5a-8ecd-b17d864ab141)
+This algorithm helps in finding the outer hull that is convex hull points among a large set of points.
+
+To obtain the points 
+method
+1. Find the left most point
+2. Then take a random point assume it the next point ,and simultaneously take other points and find that the third point is clockwise or anti clockwise to the before points.
+3. If the point is Clockwise then leave it else if it is CCW then take it as the 2nd point.Carry on in this way
+4. By doing this method again and again we can find all the convex hull points
+5. When will reach the first most point then the search will end.
+   
