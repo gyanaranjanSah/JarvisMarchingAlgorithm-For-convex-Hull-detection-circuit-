@@ -1,4 +1,8 @@
 # JarvisMarchingAlgorithm-For-convex-Hull-detection-circuit-
+
+![DIGISIM_PS](https://github.com/user-attachments/assets/e55b40a8-4d90-44e3-b27c-7e011b2eaa71)
+
+
 This algorithm helps in finding the outer hull that is convex hull points among a large set of points.
 
 To obtain the points 
